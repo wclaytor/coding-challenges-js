@@ -1,5 +1,5 @@
 # coding-challenges-js
-Javascript solutions to coding challenges from Leetcode, HackerRank, Kahn Academy, etc...
+My Javascript solutions to coding challenges from Leetcode, HackerRank, Kahn Academy, etc...
 
 ## Khan Academy
 These coding challenges are from the [Khan Academy Algorithms course](https://www.khanacademy.org/computing/computer-science/algorithms).
