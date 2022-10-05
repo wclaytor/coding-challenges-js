@@ -11,7 +11,7 @@ These coding challenges are from the [Khan Academy Algorithms course](https://ww
 
 ## Leetcode
 
-* [1. Two Sum](src/array/twoSum.js) (src/array/twoSum.js) (Easy: Array, Hash Table)
+* [1. Two Sum](src/array/twoSum.js) (Easy: Array, Hash Table)
 * [26. Remove Duplicates from Sorted Array]() (Easy: Array, Two Pointers)
 * [27. Remove Element]() (Easy: Array, Two Pointers)
 * [70. Climbing Stairs](src/math/climbStairs.js) (Easy: Math, Memoization, Dynamic Programming)
