@@ -12,8 +12,8 @@ These coding challenges are from the [Khan Academy Algorithms course](https://ww
 ## Leetcode
 
 * [1. Two Sum](src/array/twoSum.js) (src/array/twoSum.js) (Easy: Array, Hash Table)
-* [26. Remove Duplicates from Sorted Array]() (Easy: Array, Two Pointers)
-* [27. Remove Element]() (Easy: Array, Two Pointers)
+* [26. Remove Duplicates from Sorted Array](src/array/removeDuplicates.js) (Easy: Array, Two Pointers)
+* [27. Remove Element](src/array/removeElement.js) (Easy: Array, Two Pointers)
 * [70. Climbing Stairs](src/math/climbStairs.js) (Easy: Math, Memoization, Dynamic Programming)
 * []()
 * []()
@@ -31,9 +31,9 @@ These coding challenges are from the [Khan Academy Algorithms course](https://ww
 * [387. First Unique Character in a String](src/string/firstUniqChar.js) (Easy: Hash Table, String, Queue, Counting)
 * []()
 * [412. Fizz Buzz](src/math/fizzbuzz.js) (Easy: Math, String, Simulation)
-* [509. Fibonacci Number]() (Easy: Math, Dynamic Programming, Recursion, Memoization)
+* [509. Fibonacci Number](src/math/fib.js) (Easy: Math, Dynamic Programming, Recursion, Memoization)
 * [704. Binary Search](src/search/binarySearch.js) (Easy: Array, Binary Search)
-* [709. To Lower Case]() (Easy: String)
+* [709. To Lower Case](src/string/toLowerCase.js) (Easy: String)
 * [912. Sort an Array]() (Medium: Array, Divide and Conquer, Sorting, Heap (Priority Queue), Merge Sort, Bucket Sort, Radix Sort, Counting Sort)
 * []()
 * [1207. Unique Number of Occurrences]() (Easy: Array, Hash Table)
