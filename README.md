@@ -17,7 +17,7 @@ These coding challenges are from the [Khan Academy Algorithms course](https://ww
 * []()
 * []()
 * [121. Best Time to Buy and Sell Stock](src/array/maxProfit.js) (Easy: Array, Dynamic Programming)
-* [125. Valid Palindrome]() (Easy: Two Pointers, String)
+* [125. Valid Palindrome](src/string/isPalindrome.js) (Easy: Two Pointers, String)
 * []()
 * [136. Single Number](src/array/singleNumber.js) (Easy: Array, Bit Manipulation)
 * []()

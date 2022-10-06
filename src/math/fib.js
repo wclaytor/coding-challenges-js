@@ -17,10 +17,22 @@ F(n) = F(n - 1) + F(n - 2), for n > 1.
 
 Given n, calculate F(n).
 */
+var cache = {
+  0: 0,
+  1: 1,
+  2: 2
+}
+
+function fibNoMemo(n) {
+  if (n<2) { return n };
+  return fib( n - 1 ) + fib( n - 2 );
+}
 
 function fib(n) {
-  if (n===0 || n===1) { return n };
-  return fib( n - 1 ) + fib( n - 2 );
+  if (n<2) { return n; };
+  if (n in cache) { return cache[n]; }
+  cache[n] = fib( n - 1 ) + fib( n - 2 );
+  return cache[n];
 }
 
 let answer;
