@@ -39,7 +39,7 @@ function partition(array, leftIndex, rightIndex) {
     // swap array[r] with array[q] and return q
     swap(array, rightIndex, q);
     return q;
-  }
+}
 
 /* sort the array by recursively partitioning
 into sub-arrays with values less than and greater than a pivot

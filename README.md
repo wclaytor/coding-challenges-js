@@ -25,7 +25,7 @@ These coding challenges are from the [Khan Academy Algorithms course](https://ww
 * [238. Product of Array Except Self]() (Medium: Array, Prefix Sum)
 * [242. Valid Anagram](src/string/isAnagram.js) (Easy: Hash Table, String, Sorting)
 * []()
-* [344. Reverse String]() (Easy: Two Pointers, String)
+* [344. Reverse String](src/string/reverseString.js) (Easy: Two Pointers, String)
 * [383. Ransom Note](src/string/canConstruct.js) (Easy: Hash Table, String, Counting)
 * [387. First Unique Character in a String](src/string/firstUniqChar.js) (Easy: Hash Table, String, Queue, Counting)
 * []()
